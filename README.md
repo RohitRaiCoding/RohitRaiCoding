@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitraicoding&label=Profile%20views&color=0e75b6&style=flat" alt="rohitraicoding" /> </p>
